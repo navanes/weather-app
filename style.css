@@ -1,0 +1,18 @@
+.city-input {
+  text-align: center;
+  width: 50%;
+  height: 25px;
+}
+.weather-container {
+  text-align: center;
+  background-color: #b1fdf3;
+}
+.weather {
+  font-size: 25px;
+  margin: 0;
+}
+.temp {
+  font-size: 65px;
+  margin: 0;
+  font-weight: bold;
+}
